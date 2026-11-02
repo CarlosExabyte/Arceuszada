@@ -1,0 +1,340 @@
+09:18:38 ======== start 2026-11-01 09:18:38, data folder C:\Users\Carlos\Desktop\ZA Recomp
+09:18:38 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 145.2 GB free on the data folder's drive
+09:18:38 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+09:18:50 [launcher] failure shown: No game files found in that folder
+10:00:57 ======== start 2026-11-01 10:00:57, data folder C:\Users\Carlos\Desktop\ZA Recomp
+10:00:57 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 113.5 GB free on the data folder's drive
+10:00:57 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+10:08:49 ======== start 2026-11-01 10:08:49, data folder C:\Users\Carlos\Desktop\ZA Recomp
+10:08:49 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 113.3 GB free on the data folder's drive
+10:08:49 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+10:09:08 ======== start 2026-11-01 10:09:08, data folder C:\Users\Carlos\Desktop\ZA Recomp
+10:09:08 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 113.3 GB free on the data folder's drive
+10:09:08 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+10:09:11 [crash] ZA Recomp stopped because of an error (no function at 71062b0470 (lr=0 ?+0)
+)
+10:10:55 ======== start 2026-11-01 10:10:55, data folder C:\Users\Carlos\Desktop\ZA Recomp
+10:10:55 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 113.3 GB free on the data folder's drive
+10:10:55 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+10:10:58 [crash] ZA Recomp stopped because of an error (no function at 71062b0470 (lr=0 ?+0)
+)
+11:04:09 ======== start 2026-11-01 11:04:09, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:04:09 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.1 GB free on the data folder's drive
+11:04:09 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:04:12 [crash] The game stopped at one of its own checks (svcBreak(reason=0, info=723ffffec8, size=4) at 710639fb54
+)
+11:07:13 ======== start 2026-11-01 11:07:13, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:07:13 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.1 GB free on the data folder's drive
+11:07:13 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:07:16 [crash] The game stopped at one of its own checks (svcBreak(reason=0, info=723ffffec8, size=4) at 710639fb54
+)
+11:09:27 ======== start 2026-11-01 11:09:27, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:09:27 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.1 GB free on the data folder's drive
+11:09:27 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:09:30 [crash] The game stopped at one of its own checks (svcBreak(reason=0, info=723ffffec8, size=4) at 710639fb54
+)
+11:13:29 ======== start 2026-11-01 11:13:29, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:13:29 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.5 GB free on the data folder's drive
+11:13:29 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:13:32 [crash] The game stopped at one of its own checks (svcBreak(reason=0, info=723ffffec8, size=4) at 710639fb54
+)
+11:16:18 ======== start 2026-11-01 11:16:18, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:16:18 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.5 GB free on the data folder's drive
+11:16:18 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:16:21 [crash] The game stopped at one of its own checks (svcBreak(reason=0, info=723ffffec8, size=4) at 710639fb54
+)
+11:20:55 ======== start 2026-11-01 11:20:55, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:20:55 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.6 GB free on the data folder's drive
+11:20:55 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:20:58 [crash] The game stopped at one of its own checks (svcBreak(reason=0, info=723ffffec8, size=4) at 710639fb54
+)
+11:24:23 ======== start 2026-11-01 11:24:23, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:24:23 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.6 GB free on the data folder's drive
+11:24:23 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:24:29 [crash] The game stopped at one of its own checks (svcBreak(reason=0, info=723ffffec8, size=4) at 710639fb54
+)
+11:28:27 ======== start 2026-11-01 11:28:27, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:28:27 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.6 GB free on the data folder's drive
+11:28:27 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:28:31 [crash] The game stopped at one of its own checks (svcBreak(reason=0, info=723ffffec8, size=4) at 710639fb54
+)
+11:29:45 ======== start 2026-11-01 11:29:45, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:29:45 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.5 GB free on the data folder's drive
+11:29:45 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:29:49 [crash] The game stopped at one of its own checks (svcBreak(reason=0, info=723ffffec8, size=4) at 710639fb54
+)
+11:34:15 ======== start 2026-11-01 11:34:15, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:34:15 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.5 GB free on the data folder's drive
+11:34:15 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:34:19 [crash] The game stopped at one of its own checks (svcBreak(reason=0, info=723ffffec8, size=4) at 710639fb54
+)
+11:35:01 ======== start 2026-11-01 11:35:01, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:35:01 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.5 GB free on the data folder's drive
+11:35:01 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:35:04 [crash] ZA Recomp stopped because of an error (exception c0000005 accessing 0)
+11:37:12 ======== start 2026-11-01 11:37:12, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:37:12 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.5 GB free on the data folder's drive
+11:37:12 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:39:29 ======== start 2026-11-01 11:39:29, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:39:29 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 96.9 GB free on the data folder's drive
+11:39:29 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:39:33 [crash] ZA Recomp stopped because of an error (exception c0000005 accessing 0)
+11:40:12 ======== start 2026-11-01 11:40:12, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:40:12 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 96.9 GB free on the data folder's drive
+11:40:12 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:40:15 [crash] ZA Recomp stopped because of an error (exception c0000005 accessing 0)
+11:46:39 ======== start 2026-11-01 11:46:39, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:46:39 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.3 GB free on the data folder's drive
+11:46:39 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:46:43 [crash] ZA Recomp stopped because of an error (exception c0000005 accessing 0)
+11:48:15 ======== start 2026-11-01 11:48:15, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:48:15 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.2 GB free on the data folder's drive
+11:48:15 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:48:19 [crash] ZA Recomp stopped because of an error (exception c0000005 accessing 0)
+11:49:29 ======== start 2026-11-01 11:49:29, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:49:29 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.2 GB free on the data folder's drive
+11:49:29 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:49:33 [crash] ZA Recomp stopped because of an error (exception c0000005 accessing 0)
+11:53:11 ======== start 2026-11-01 11:53:11, data folder C:\Users\Carlos\Desktop\ZA Recomp
+11:53:11 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.3 GB free on the data folder's drive
+11:53:11 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+11:53:22 [crash] ZA Recomp stopped because of an error (no function at 7102a9054c (lr=7102a8f5b0 _ZN2nn4timeeqERKNS0_12LocationNameES3_+18c1b0)
+)
+12:08:58 ======== start 2026-11-01 12:08:58, data folder C:\Users\Carlos\Desktop\ZA Recomp
+12:08:58 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.2 GB free on the data folder's drive
+12:08:58 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+12:08:58 [crash] LAS Recomp stopped because of an error (can't load extracted/lasgame.dll (error 126)
+)
+12:09:14 ======== start 2026-11-01 12:09:14, data folder C:\Users\Carlos\Desktop\ZA Recomp
+12:09:14 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 97.0 GB free on the data folder's drive
+12:09:14 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+12:11:22 ======== start 2026-11-01 12:11:22, data folder C:\Users\Carlos\Desktop\ZA Recomp
+12:11:22 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 96.9 GB free on the data folder's drive
+12:11:22 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+12:19:11 ======== start 2026-11-01 12:19:11, data folder C:\Users\Carlos\Desktop\ZA Recomp
+12:19:11 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 95.7 GB free on the data folder's drive
+12:19:11 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+12:19:31 ======== start 2026-11-01 12:19:31, data folder C:\Users\Carlos\Desktop\ZA Recomp
+12:19:31 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 95.6 GB free on the data folder's drive
+12:19:31 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+12:19:38 ======== start 2026-11-01 12:19:38, data folder C:\Users\Carlos\Desktop\ZA Recomp
+12:19:38 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 95.6 GB free on the data folder's drive
+12:19:38 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+12:19:55 ======== start 2026-11-01 12:19:55, data folder C:\Users\Carlos\Desktop\ZA Recomp
+12:19:55 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 95.6 GB free on the data folder's drive
+12:19:55 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+12:20:13 ======== start 2026-11-01 12:20:13, data folder C:\Users\Carlos\Desktop\ZA Recomp
+12:20:13 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 95.6 GB free on the data folder's drive
+12:20:13 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+12:44:53 ======== start 2026-11-01 12:44:53, data folder C:\Users\Carlos\Desktop\ZA Recomp
+12:44:53 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 93.3 GB free on the data folder's drive
+12:44:53 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+12:45:01 [launcher] failure shown: No game files found in that folder
+12:47:24 [crash] ZA Recomp stopped because of an error (no function at 71017cd500 (lr=71017cce04 _ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv+aba36c)
+)
+12:47:38 ======== start 2026-11-01 12:47:38, data folder C:\Users\Carlos\Desktop\ZA Recomp
+12:47:38 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 93.3 GB free on the data folder's drive
+12:47:38 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+12:50:14 [crash] ZA Recomp stopped because of an error (no function at 71017cd500 (lr=71017cce04 _ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv+aba36c)
+)
+13:02:00 ======== start 2026-11-01 13:02:00, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:02:00 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 93.2 GB free on the data folder's drive
+13:02:00 ======== start 2026-11-01 13:02:00, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:02:00 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 93.2 GB free on the data folder's drive
+13:02:00 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:02:00 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:02:00 ======== start 2026-11-01 13:02:00, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:02:00 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 93.2 GB free on the data folder's drive
+13:02:00 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:02:11 ======== start 2026-11-01 13:02:11, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:02:11 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 93.2 GB free on the data folder's drive
+13:02:11 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:34:42 ======== start 2026-11-01 13:34:42, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:34:42 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 89.0 GB free on the data folder's drive
+13:34:42 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:36:01 ======== start 2026-11-01 13:36:01, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:36:01 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 89.0 GB free on the data folder's drive
+13:36:01 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:36:43 [crash] ZA Recomp stopped because of an error (vkGetSemaphoreCounterValue(g_vk.dev, g_vk.timeline, &v) failed: -4 (runtime/nvn/vulkan/exec.c:161)
+)
+13:40:56 ======== start 2026-11-01 13:40:56, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:40:56 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 89.0 GB free on the data folder's drive
+13:40:56 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:41:07 [crash] ZA Recomp stopped because of an error (vkWaitSemaphores: -4 (device lost)
+)
+13:41:52 ======== start 2026-11-01 13:41:52, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:41:52 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 89.0 GB free on the data folder's drive
+13:41:52 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:42:03 [crash] ZA Recomp stopped because of an error (vkWaitSemaphores: -4 (device lost)
+)
+13:43:27 ======== start 2026-11-01 13:43:27, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:43:27 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 89.0 GB free on the data folder's drive
+13:43:27 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:43:39 [crash] ZA Recomp stopped because of an error (vkWaitSemaphores: -4 (device lost)
+)
+13:44:09 ======== start 2026-11-01 13:44:09, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:44:09 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 89.0 GB free on the data folder's drive
+13:44:09 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:46:58 ======== start 2026-11-01 13:46:58, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:46:58 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 88.9 GB free on the data folder's drive
+13:46:58 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:47:09 [crash] ZA Recomp stopped because of an error (vkWaitSemaphores: -4 (device lost)
+)
+13:50:08 ======== start 2026-11-01 13:50:08, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:50:08 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 88.9 GB free on the data folder's drive
+13:50:08 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:50:19 [crash] ZA Recomp stopped because of an error (vkWaitSemaphores: -4 (device lost)
+)
+13:50:44 ======== start 2026-11-01 13:50:44, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:50:44 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 88.9 GB free on the data folder's drive
+13:50:44 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:50:55 [crash] ZA Recomp stopped because of an error (vkWaitSemaphores: -4 (device lost)
+)
+13:51:10 ======== start 2026-11-01 13:51:10, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:51:10 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 88.9 GB free on the data folder's drive
+13:51:10 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+13:51:22 [crash] ZA Recomp stopped because of an error (vkWaitSemaphores: -4 (device lost)
+)
+13:57:47 ======== start 2026-11-01 13:57:47, data folder C:\Users\Carlos\Desktop\ZA Recomp
+13:57:47 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 88.9 GB free on the data folder's drive
+13:57:47 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+14:04:08 ======== start 2026-11-01 14:04:08, data folder C:\Users\Carlos\Desktop\ZA Recomp
+14:04:08 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 88.9 GB free on the data folder's drive
+14:04:08 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+14:04:18 [crash] ZA Recomp stopped because of an error (vkWaitSemaphores: -4 (device lost)
+)
+14:09:53 ======== start 2026-11-01 14:09:53, data folder C:\Users\Carlos\Desktop\ZA Recomp
+14:09:53 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 88.9 GB free on the data folder's drive
+14:09:53 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+14:10:04 [crash] ZA Recomp stopped because of an error (vkWaitSemaphores: -4 (device lost)
+)
+14:14:25 ======== start 2026-11-01 14:14:25, data folder C:\Users\Carlos\Desktop\ZA Recomp
+14:14:25 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 94.0 GB free on the data folder's drive
+14:14:25 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+14:17:28 ======== start 2026-11-01 14:17:28, data folder C:\Users\Carlos\Desktop\ZA Recomp
+14:17:28 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 94.0 GB free on the data folder's drive
+14:17:28 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+14:17:34 [launcher] recommended video settings declined
+14:18:00 [crash] The game crashed (exception c0000005 accessing 0x10059)
+14:18:00 [crash] The game crashed (exception c0000005 accessing 0x10059)
+14:18:11 ======== start 2026-11-01 14:18:11, data folder C:\Users\Carlos\Desktop\ZA Recomp
+14:18:11 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 94.0 GB free on the data folder's drive
+14:18:11 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+14:18:35 [crash] The game crashed (exception c0000005 accessing 0x400)
+14:18:40 ======== start 2026-11-01 14:18:40, data folder C:\Users\Carlos\Desktop\ZA Recomp
+14:18:40 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 94.0 GB free on the data folder's drive
+14:18:40 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+14:19:13 [crash] The game crashed (exception c0000005 accessing 0xffffffffffffffff)
+14:44:45 ======== start 2026-11-01 14:44:45, data folder C:\Users\Carlos\Desktop\ZA Recomp
+14:44:45 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 93.7 GB free on the data folder's drive
+14:44:45 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+14:47:11 ======== start 2026-11-01 14:47:11, data folder C:\Users\Carlos\Desktop\ZA Recomp
+14:47:11 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 93.7 GB free on the data folder's drive
+14:47:11 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+14:50:15 ======== start 2026-11-01 14:50:15, data folder C:\Users\Carlos\Desktop\ZA Recomp
+14:50:15 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 93.7 GB free on the data folder's drive
+14:50:15 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+15:04:42 [crash] ZA Recomp stopped because of an error (no function at 71024cccc0 (lr=710292b728 _ZN2nn4timeeqERKNS0_12LocationNameES3_+28328, containing fn 71024ccc90+30)
+)
+15:04:51 ======== start 2026-11-01 15:04:51, data folder C:\Users\Carlos\Desktop\ZA Recomp
+15:04:51 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 93.6 GB free on the data folder's drive
+15:04:51 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+15:09:21 ======== start 2026-11-01 15:09:21, data folder C:\Users\Carlos\Desktop\ZA Recomp
+15:09:21 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 93.9 GB free on the data folder's drive
+15:09:21 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+15:19:55 [crash] ZA Recomp stopped because of an error (no function at 71024cccc0 (lr=710292b728 _ZN2nn4timeeqERKNS0_12LocationNameES3_+28328, containing fn 71024ccc90+30)
+)
+16:47:07 ======== start 2026-11-01 16:47:07, data folder C:\Users\Carlos\Desktop\ZA Recomp
+16:47:07 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 90.0 GB free on the data folder's drive
+16:47:07 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+16:50:47 ======== start 2026-11-01 16:50:47, data folder C:\Users\Carlos\Desktop\ZA Recomp
+16:50:47 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 89.9 GB free on the data folder's drive
+16:50:47 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+16:51:07 [crash] ZA Recomp stopped because of an error (unmapped interior block 71013785d4 inside function 7101371b08 (lr=710134b6c4 _ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv+638c2c)
+)
+16:51:11 ======== start 2026-11-01 16:51:11, data folder C:\Users\Carlos\Desktop\ZA Recomp
+16:51:11 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 89.9 GB free on the data folder's drive
+16:51:11 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+16:52:02 [crash] ZA Recomp stopped because of an error (unmapped interior block 71013785d4 inside function 7101371b08 (lr=710134b6c4 _ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv+638c2c)
+)
+17:13:42 ======== start 2026-11-01 17:13:42, data folder C:\Users\Carlos\Desktop\ZA Recomp
+17:13:42 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 88.7 GB free on the data folder's drive
+17:13:42 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+17:14:26 ======== start 2026-11-01 17:14:26, data folder C:\Users\Carlos\Desktop\ZA Recomp
+17:14:26 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 88.7 GB free on the data folder's drive
+17:14:26 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+17:17:39 ======== start 2026-11-01 17:17:39, data folder C:\Users\Carlos\Desktop\ZA Recomp
+17:17:39 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 88.7 GB free on the data folder's drive
+17:17:39 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+17:21:55 ======== start 2026-11-01 17:21:55, data folder C:\Users\Carlos\Desktop\ZA Recomp
+17:21:55 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 88.7 GB free on the data folder's drive
+17:21:55 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+18:46:13 ======== start 2026-11-01 18:46:13, data folder C:\Users\Carlos\Desktop\ZA Recomp
+18:46:13 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 83.8 GB free on the data folder's drive
+18:46:13 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+18:47:18 ======== start 2026-11-01 18:47:18, data folder C:\Users\Carlos\Desktop\ZA Recomp
+18:47:18 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 83.8 GB free on the data folder's drive
+18:47:18 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+18:51:54 ======== start 2026-11-01 18:51:54, data folder C:\Users\Carlos\Desktop\ZA Recomp
+18:51:54 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 83.9 GB free on the data folder's drive
+18:51:54 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+19:03:24 ======== start 2026-11-01 19:03:24, data folder C:\Users\Carlos\Desktop\ZA Recomp
+19:03:24 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 83.8 GB free on the data folder's drive
+19:03:24 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+19:26:31 ======== start 2026-11-01 19:26:31, data folder C:\Users\Carlos\Desktop\ZA Recomp
+19:26:31 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 83.8 GB free on the data folder's drive
+19:26:31 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+19:29:47 ======== start 2026-11-01 19:29:47, data folder C:\Users\Carlos\Desktop\ZA Recomp
+19:29:47 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 83.8 GB free on the data folder's drive
+19:29:47 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+20:20:33 ======== start 2026-11-01 20:20:33, data folder C:\Users\Carlos\Desktop\ZA Recomp
+20:20:33 program C:\Users\Carlos\Desktop\ZA Recomp\lasrecomp.exe, 83.7 GB free on the data folder's drive
+20:20:33 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+21:19:24 ======== start 2026-11-01 21:19:24, data folder C:\Users\Carlos\Downloads\recompzada
+21:19:24 program C:\Users\Carlos\Downloads\recompzada\lasrecomp.exe, 48.2 GB free on the data folder's drive
+21:19:24 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+21:19:32 [crash] ZA Recomp stopped because of an error (cannot read the game data in extracted/romfs no files in extracted/romfs(set up the game files on the start screen)
+)
+21:27:19 ======== start 2026-11-01 21:27:19, data folder C:\Users\Carlos\Downloads\recompzada
+21:27:19 program C:\Users\Carlos\Downloads\recompzada\lasrecomp.exe, 40.7 GB free on the data folder's drive
+21:27:19 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+21:27:45 ======== start 2026-11-01 21:27:45, data folder C:\Users\Carlos\Downloads\recompzada
+21:27:45 program C:\Users\Carlos\Downloads\recompzada\lasrecomp.exe, 40.7 GB free on the data folder's drive
+21:27:45 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+21:27:58 [launcher] failure shown: No game files found in that folder
+21:31:37 ======== start 2026-11-01 21:31:37, data folder C:\Users\Carlos\Downloads\recompzada
+21:31:37 program C:\Users\Carlos\Downloads\recompzada\lasrecomp.exe, 58.8 GB free on the data folder's drive
+21:31:37 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+21:48:52 ======== start 2026-11-01 21:48:52, data folder C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada
+21:48:52 program C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada\lasrecomp.exe, 49.9 GB free on the data folder's drive
+21:48:52 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+21:48:55 [gamebuild] generator C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada\lasgen\lasgen.exe, compiler C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada\zig\zig.exe cc, 12 jobs
+21:49:03 [gamebuild] reused 0 objects, compiled 10 objects
+21:49:03 [gamebuild] failed in 9s
+21:49:03 [launcher] game code: Invalid generated module.
+21:49:03 [launcher] failure shown: The game code didn't build
+21:49:12 [gamebuild] generator C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada\lasgen\lasgen.exe, compiler C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada\zig\zig.exe cc, 12 jobs
+21:49:20 [gamebuild] reused 9 objects, compiled 4 objects
+21:49:20 [gamebuild] failed in 8s
+21:49:20 [launcher] game code: Invalid generated module.
+21:49:20 [launcher] failure shown: The game code didn't build
+21:49:22 [gamebuild] generator C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada\lasgen\lasgen.exe, compiler C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada\zig\zig.exe cc, 12 jobs
+21:49:28 [gamebuild] reused 12 objects, compiled 1 objects
+21:49:28 [gamebuild] failed in 7s
+21:49:28 [launcher] game code: Invalid generated module.
+21:49:28 [launcher] failure shown: The game code didn't build
+21:50:15 ======== start 2026-11-01 21:50:15, data folder C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada
+21:50:15 program C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada\lasrecomp.exe, 49.8 GB free on the data folder's drive
+21:50:15 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+21:50:15 ======== start 2026-11-01 21:50:15, data folder C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada
+21:50:15 program C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada\lasrecomp.exe, 49.8 GB free on the data folder's drive
+21:50:15 ======== start 2026-11-01 21:50:15, data folder C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada
+21:50:15 program C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada\lasrecomp.exe, 49.8 GB free on the data folder's drive
+21:50:15 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+21:50:15 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+21:50:23 ======== start 2026-11-01 21:50:23, data folder C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada
+21:50:23 program C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada\lasrecomp.exe, 49.8 GB free on the data folder's drive
+21:50:23 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+22:06:34 ======== start 2026-11-01 22:06:34, data folder C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada
+22:06:34 program C:\Users\Carlos\Downloads\Pokemon Arceus Recompzada\lasrecomp.exe, 71.4 GB free on the data folder's drive
+22:06:34 [system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB

@@ -1,0 +1,27 @@
+[session] lasrecomp-backup-01dd69fb201f32d2-21260.log
+[info] ZA Recomp v0.1.14, Windows 10 (10.0.19045, x64), 12th Gen Intel(R) Core(TM) i5-12400F 6 cores / 12 threads, 15.9 GB RAM, zip
+[paths] data: C:\Users\Carlos\Desktop\ZA Recomp
+[paths] first run: the release's settings from C:\Users\Carlos\Desktop\ZA Recomp\za-default.ini
+[system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+[settings] loaded larecomp.ini
+[vk] gpu 0: NVIDIA GeForce RTX 3050 (api 1.4.351)
+[vk] using NVIDIA GeForce RTX 3050 (dedicated, 5.9 GB video memory, driver NVIDIA 617.42, Vulkan 1.4.351)
+[settings] discrete / other GPU: upscaler fsr1 (chosen), resolution 1.5x (chosen), anti-aliasing smaa
+[settings] recommended video: Medium (NVIDIA GeForce RTX 3050, 6 GB video memory, 12 threads, 16 GB RAM): resolution 1x, 30 fps - applied (first start)
+[vk] lean usage off, SMAA stencil off, per-frame target clears on (not an integrated GPU)
+[vk] GPU address binding report: on (a device fault names the object at its address)
+[vk] driver NVIDIA 617.42; graphics pipeline library: yes (fast linking yes, independent interpolation decoration yes); vertex input dynamic state: yes; extended dynamic state 3: polygon mode 1, samples 1, alpha to coverage 1, blend enable 1, blend equation 1, write mask 1
+[vk] Vulkan 1.3: dynamic rendering yes, synchronization2 yes, extended dynamic state yes / yes
+[vk] vertex input: dynamic (VK_EXT_vertex_input_dynamic_state)
+[vk] robust buffer / image access 2: yes
+[vk] present watch: yes
+[vk] memory (start) heap 0 device-local: 6002 MB, budget 5234 MB, in use 2 MB, ours 0 MB in 0 allocations
+[vk] memory (start) heap 1 system: 8118 MB, budget 7456 MB, in use 11 MB, ours 0 MB in 0 allocations
+[vk] swapchain 1280x720, 3 images, mailbox (HDR available)
+[vk] subgroups: 32 lanes, quad operations in fragment shaders: yes
+[vk] GPU timer on (dynamic resolution goes by GPU time)
+[vk] recorder thread on
+[pcore] CPU not hybrid (12 logical processors, one efficiency class): power throttling off, no CPU sets
+[pcore] render thread: power throttling off (not hybrid: no CPU sets)
+[launcher] failure shown: No game files found in that folder
+[vk] pipeline cache: saved 2101037 bytes

@@ -1,0 +1,1174 @@
+[system] ZA Recomp v0.1.14 | Windows 10 10.0.19045 | CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12 threads, AVX2 yes FMA yes BMI2 yes -> game code for x86-64-v3) | RAM 16 GB
+[settings] loaded arceus.ini
+[vk] gpu 0: NVIDIA GeForce RTX 3050 (api 1.4.351)
+[vk] using NVIDIA GeForce RTX 3050 (dedicated, 5.9 GB video memory, driver NVIDIA 617.42, Vulkan 1.4.351)
+[settings] discrete / other GPU: upscaler fsr1 (chosen), resolution 1x (chosen), anti-aliasing smaa
+[settings] recommended video: Medium (NVIDIA GeForce RTX 3050, 6 GB video memory, 12 threads, 16 GB RAM): resolution 1x, 30 fps
+[vk] lean usage off, SMAA stencil off, per-frame target clears on (not an integrated GPU)
+[vk] GPU address binding report: on (a device fault names the object at its address)
+[vk] driver NVIDIA 617.42; graphics pipeline library: yes (fast linking yes, independent interpolation decoration yes); vertex input dynamic state: yes; extended dynamic state 3: polygon mode 1, samples 1, alpha to coverage 1, blend enable 1, blend equation 1, write mask 1
+[vk] Vulkan 1.3: dynamic rendering yes, synchronization2 yes, extended dynamic state yes / yes
+[vk] vertex input: dynamic (VK_EXT_vertex_input_dynamic_state)
+[vk] robust buffer / image access 2: yes
+[vk] present watch: yes
+[vk] memory (start) heap 0 device-local: 6002 MB, budget 5234 MB, in use 2 MB, ours 0 MB in 0 allocations
+[vk] memory (start) heap 1 system: 8118 MB, budget 7456 MB, in use 11 MB, ours 0 MB in 0 allocations
+[vk] pipeline cache: loaded 3685610 bytes
+[vk] swapchain 1280x720, 3 images, mailbox (HDR available)
+[vk] subgroups: 32 lanes, quad operations in fragment shaders: yes
+[vk] GPU timer on (dynamic resolution goes by GPU time)
+[vk] guest memory: one import of the game's window (not Link's Awakening: no heap chunks)
+[vk] recorder thread on
+[pcore] CPU not hybrid (12 logical processors, one efficiency class): power throttling off, no CPU sets
+[pcore] render thread: power throttling off (not hybrid: no CPU sets)
+[game] not Link's Awakening (main build ID 7FCAD279539DE183): no address table
+[gamelib] loaded extracted/lasgame.dll with 4 module(s):
+[gamelib]   module main: 160804 functions
+[gamelib]   module subsdk0: 13689 functions
+[gamelib]   module subsdk1: 13944 functions
+[gamelib]   module sdk: 38289 functions
+loaded main  at 7100000000 size 430c000 syms 937
+loaded subsdk0 at 7104800000 size 6a8000 syms 11553
+loaded subsdk1 at 7105000000 size 9c8000 syms 108
+loaded sdk   at 7106000000 size d34000 syms 26584
+relocated main  (39 imports bound to host stubs)
+relocated subsdk0 (25 imports bound to host stubs)
+relocated subsdk1 (0 imports bound to host stubs)
+relocated sdk   (23 imports bound to host stubs)
+[tls-sym] main: _ZN2nn2os15AllocateTlsSlotEPNS0_7TlsSlotEPFvmE (val=0 shndx=0)
+[tls-sym] main: _ZN2nn2os11FreeTlsSlotENS0_7TlsSlotE (val=0 shndx=0)
+[tls-sym] main: _ZN2nn2os11GetTlsValueENS0_7TlsSlotE (val=0 shndx=0)
+[tls-sym] main: _ZN2nn2os11SetTlsValueENS0_7TlsSlotEm (val=0 shndx=0)
+[vamm-sym] main: _ZN2nn2os36GetVirtualAddressMemoryResourceUsageEv (val=0 shndx=0)
+[tls-sym] main: _ZN2nn2os18SdkAllocateTlsSlotEPNS0_7TlsSlotEPFvmE (val=0 shndx=0)
+[tls-sym] subsdk0: _ZN2nn2sf4hipc21GetMessageBufferOnTlsEv (val=0 shndx=0)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral19UncacheSmallMemory_EPv (val=2f6600 shndx=2)
+[tls-sym] sdk: _ZN2nn2os11SetTlsValueENS0_7TlsSlotEm (val=34b990 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache14AllocFuncMode0INSt3__117integral_constantIbLb0EEEEEPvPS2_m (val=2f0d6c shndx=2)
+[tls-sym] sdk: _ZN2nn2os15AllocateTlsSlotEPNS0_7TlsSlotEPFvmE (val=34b8d0 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache17FreeFuncSizeMode0INSt3__117integral_constantIbLb0EEEEEiPS2_Pvm (val=2f127c shndx=2)
+[vamm-sym] sdk: _ZN2nn2os17FreeAddressRegionEm (val=34cb90 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral22UncacheSmallMemoryListEPNS1_12TlsHeapCacheEPv (val=2f08b4 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral11AllocPages_Em (val=2f3110 shndx=2)
+[tls-sym] sdk: nnosAllocateTlsSlot (val=34cee0 shndx=2)
+[vamm-sym] sdk: _ZN2nn2os29IsVirtualAddressMemoryEnabledEv (val=34cc10 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral12GetAllocSizeEPKv (val=2f0b58 shndx=2)
+[tls-sym] sdk: _ZN2nn6socket8resolver3tls9g_TlsSlotE (val=d04d78 shndx=68)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache14AllocFuncMode0INSt3__117integral_constantIbLb1EEEEEPvPS2_m (val=2f15f4 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral4InitEPvmb (val=2f2cec shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache21GetAllocSizeFuncMode0EPS2_PKv (val=2f0ac0 shndx=2)
+[tls-sym] sdk: NvOsTlsAllocWithDestructor (val=3e18b0 shndx=2)
+[tls-sym] sdk: _ZNSt3__115__libcpp_tl_setEN2nn2os7TlsSlotEPv (val=4f9f30 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral5Dump_E15NMallocDumpModeib (val=2f76dc shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral13MakeFreeSpan_Em (val=2f35f0 shndx=2)
+[tls-sym] sdk: _ZN2nn2sf4hipc21GetMessageBufferOnTlsEv (val=384fb0 shndx=2)
+[tls-sym] sdk: NvOsTlsAddTerminator (val=3e1920 shndx=2)
+[vamm-sym] sdk: _ZN2nn2os6detail11VammManager21AllocateAddressRegionEPmm (val=34e148 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral22AllocSpanFromSpanPage_EPNS1_8SpanPageE (val=2f2210 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral23DestroySpanPageIfEmpty_EPNS1_8SpanPageEb (val=2f22a0 shndx=2)
+[tls-sym] sdk: _ZNSt3__115__libcpp_tl_getEN2nn2os7TlsSlotE (val=4f9f28 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache13FreeFuncMode0INSt3__117integral_constantIbLb0EEEEEiPS2_Pv (val=2f1128 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentralC1Ev (val=2f2a1c shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral18ReallocLargeMemoryEPvmPS3_ (val=2f67a8 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache15ShrinkFuncMode0INSt3__117integral_constantIbLb0EEEEEiPS2_Pvm (val=2f152c shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral15SearchFreeSpan_Em (val=2f3664 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral8GetColorEPvPi (val=2f90e0 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral9AllocPhy_EPvm (val=2f2a38 shndx=2)
+[tls-sym] sdk: _ZN2nn6socket8resolver3tls19TlsDestructFunctionEm (val=39af60 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral7IsCleanEv (val=2f7d98 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache13FreeFuncMode0INSt3__117integral_constantIbLb1EEEEEiPS2_Pv (val=2f1b84 shndx=2)
+[tls-sym] sdk: __nnmusl_FreeTlsSlot (val=565f18 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral17ShrinkLargeMemoryEPvm (val=2f6d6c shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache16ReallocFuncMode0INSt3__117integral_constantIbLb1EEEEEiPS2_PvmPS8_ (val=2f1f54 shndx=2)
+[tls-sym] sdk: __nnmusl_AllocateTlsSlot (val=565e40 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral18WalkAllocatedPtrs_EPFiPvmS3_ES3_ (val=2f7848 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache18AllocFuncAlgnMode0INSt3__117integral_constantIbLb1EEEEEPvPS2_mm (val=2f1838 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral17CacheSmallMemory_Ehmb (val=2f5918 shndx=2)
+[tls-sym] sdk: NvOsTlsRemoveTerminator (val=3e1910 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap10CachedHeap5ResetEPNS1_12TlsHeapCacheE (val=2f965c shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentralC2Ev (val=2f2a1c shndx=2)
+[vamm-sym] sdk: _ZN2nn2os6detail11VammManager17FreeAddressRegionEm (val=34ea18 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral19FreeSpanToSpanPage_EPNS1_4SpanEPNS1_8SpanPageE (val=2f2184 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCacheC1EPNS1_14TlsHeapCentralEj (val=2f0c04 shndx=2)
+[tls-sym] sdk: _ZNSt3__118__libcpp_tl_createEPN2nn2os7TlsSlotEPFvmE (val=4f9f08 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCacheC2EPNS1_14TlsHeapCentralEj (val=2f0c04 shndx=2)
+[tls-sym] sdk: nnosSetTlsValue (val=34cf20 shndx=2)
+[tls-sym] sdk: _ZN2nn2os6detail10TlsManagerC1Ev (val=34d1c4 shndx=2)
+[tls-sym] sdk: _ZN2nn2os11FreeTlsSlotENS0_7TlsSlotE (val=34b950 shndx=2)
+[vamm-sym] sdk: _ZN2nn2os30InitializeVirtualAddressMemoryEv (val=34cac0 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache17FreeFuncSizeMode0INSt3__117integral_constantIbLb1EEEEEiPS2_Pvm (val=2f1d74 shndx=2)
+[vamm-sym] sdk: _ZN2nn2os36GetVirtualAddressMemoryResourceUsageEv (val=34cc00 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache18AllocFuncAlgnMode0INSt3__117integral_constantIbLb0EEEEEPvPS2_mm (val=2f0ec0 shndx=2)
+[tls-sym] sdk: _ZN2nn6socket8resolver3tls23AddGenerationToTlsValueERPNS2_30ResolverThreadLocalStoragePairE (val=39ae50 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap13TlsHeapStatic10kClassInfoE (val=a8bbf8 shndx=11)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache15ReleaseAllCacheEv (val=2f0840 shndx=2)
+[tls-sym] sdk: _ZN2nn6socket8resolver3tls27g_DidAlreadyAllocateTlsSlotE (val=d04d7c shndx=68)
+[tls-sym] sdk: _ZNK2nn2os6detail10TlsManager25SearchUnusedTlsSlotUnsafeEb (val=34cf34 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral12CalcHeapHashEP8HeapHash (val=2f7be0 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral14CheckSpanList_Ev (val=2f7a60 shndx=2)
+[tls-sym] sdk: _ZN2nn2os6detail10TlsManagerC2Ev (val=34d1c4 shndx=2)
+[tls-sym] sdk: _ZN2nn2os6detail10TlsManager20InvokeTlsDestructorsEv (val=34d22c shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache16ReallocFuncMode0INSt3__117integral_constantIbLb0EEEEEiPS2_PvmPS8_ (val=2f13c4 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentralD1Ev (val=2f2a24 shndx=2)
+[tls-sym] sdk: _ZN2nn2os18SdkAllocateTlsSlotEPNS0_7TlsSlotEPFvmE (val=34b910 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap13TlsHeapStatic11kSize2ClassE (val=a8bb38 shndx=11)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral12GetMemStats_EPNS1_15TlsHeapMemStatsE (val=2f7524 shndx=2)
+[tls-sym] sdk: NvOsTlsAlloc (val=3e1880 shndx=2)
+[tls-sym] sdk: _ZN2nn2os6detail13ThreadManager26SetZeroToAllThreadsTlsSafeEi (val=34a158 shndx=2)
+[tls-sym] sdk: _ZN2nn2os19GetUsedTlsSlotCountEv (val=34b9b0 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral18GetSpanMappedArea_ERKNS1_4SpanE (val=2f6f90 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral21CacheSmallMemoryList_EPNS1_12TlsHeapCacheEPhmPPvim (val=2f5f9c shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache10CheckCacheEv (val=2f0ab8 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral14AllocSpanPage_Ev (val=2f5454 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache15ShrinkFuncMode0INSt3__117integral_constantIbLb1EEEEEiPS2_Pvm (val=2f20bc shndx=2)
+[vamm-sym] sdk: _ZNK2nn2os6detail11VammManager29IsVirtualAddressMemoryEnabledEv (val=34dff4 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral8FreePhy_EPvm (val=2f2c2c shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap12TlsHeapCache8FinalizeEv (val=2f099c shndx=2)
+[tls-sym] sdk: nnosGetUsedTlsSlotCount (val=34cf30 shndx=2)
+[vamm-sym] sdk: _ZN2nn2os6detail11VammManager36GetVirtualAddressMemoryResourceUsageEv (val=34ed14 shndx=2)
+[tls-sym] sdk: _ZN2nn2os6detail10TlsManager15AllocateTlsSlotEPNS0_7TlsSlotEPFvmEb (val=34d304 shndx=2)
+[tls-sym] sdk: _ZN2nn2os6detail10TlsManager11FreeTlsSlotENS0_7TlsSlotE (val=34d3f4 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentralD2Ev (val=2f2a24 shndx=2)
+[tls-sym] sdk: __nnmusl_SetTlsValue (val=566148 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral18MergeIntoFreeList_ERPNS1_4SpanE (val=2f3a68 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral23AllocPagesWithBigAlign_Emm (val=2f49cc shndx=2)
+[tls-sym] sdk: _ZN2nn2ro34InvokeTlsDestructorOfCurrentThreadEPNS0_6ModuleE (val=363b50 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral10SplitSpan_EPNS1_4SpanEmS4_ (val=2f380c shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral7SetNameEPvPKc (val=2f9194 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral18GetMappedMemStats_EPmS3_ (val=2f70d0 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral7GetNameEPvPcm (val=2f926c shndx=2)
+[tls-sym] sdk: nnosGetTlsValue (val=34cf10 shndx=2)
+[tls-sym] sdk: _ZN2nn6socket8resolver3tls17GetTlsPairPointerERPNS2_30ResolverThreadLocalStoragePairE (val=39ae40 shndx=2)
+[vamm-sym] sdk: _ZN2nn2os6detail20AddressRegionManagerC2Emm (val=34e038 shndx=2)
+[vamm-sym] sdk: _ZN2nn2os21AllocateAddressRegionEPmm (val=34cad0 shndx=2)
+[tls-sym] sdk: _ZN2nn2os11GetTlsValueENS0_7TlsSlotE (val=34b970 shndx=2)
+[tls-sym] sdk: __nnmusl_GetTlsValue (val=5660b0 shndx=2)
+[tls-sym] sdk: _ZN2nn7nlibsdk4heap14TlsHeapCentral10FreePages_EPNS1_4SpanE (val=2f28b4 shndx=2)
+[tls-sym] sdk: NvOsTlsSet (val=3e1900 shndx=2)
+[tls-sym] sdk: NvOsTlsFree (val=3e18e0 shndx=2)
+[tls-sym] sdk: NvOsTlsGet (val=3e18f0 shndx=2)
+[tls-sym] sdk: nnosFreeTlsSlot (val=34cf00 shndx=2)
+not Link's Awakening: its game hooks are off
+main thread: prio 44, stack 0x100000, program 0x01001f5010dfa000
+[pcore] game thread: power throttling off (not hybrid: no CPU sets)
+[kernel] GetInfo id0=2 id1=0 -> v=0x7400000000 (r=0x0)
+[kernel] GetInfo id0=3 id1=0 -> v=0x800000000 (r=0x0)
+[kernel] GetInfo id0=22 id1=0 -> v=0x4000000 (r=0x0)
+[kernel] GetInfo id0=21 id1=0 -> v=0xcd500000 (r=0x0)
+init sdk (DT_INIT 7106000030, 115 init_array entries)
+[os:tls] AllocateTlsSlot -> slot 0 (destructor=0x0, out_ptr=0x7106cc9288)
+init subsdk1 (DT_INIT 7105000030, 4 init_array entries)
+init subsdk0 (DT_INIT 7104800030, 44 init_array entries)
+[sm] GetService lm
+[ipc] control 3 on lm (handle 103)
+[ipc] control 0 on lm (handle 103)
+[kernel] MapPhysicalMemory 0x7400000000 + 0x1000
+[sm] GetService apm
+[sm] GetService appletOE
+[ipc] control 3 on appletOE (handle 105)
+[ipc] control 0 on appletOE (handle 105)
+[am] ICommonStateGetter cmd 900 (unhandled, ok)
+[am] ISelfController cmd 91 (unhandled, ok)
+[kernel] CreateThread entry=7106350180 stack=721a2b7fe0 prio=28 -> 10a
+[am] IWindowController cmd 10 (unhandled, ok)
+[am] ISelfController cmd 13 (unhandled, ok)
+[am] ISelfController cmd 16 (unhandled, ok)
+[sm] GetService aoc:u
+[sm] GetService ectx:aw
+[ipc] control 3 on ectx:aw (handle 10c)
+[ipc] control 0 on ectx:aw (handle 10c)
+[sm] GetService pctl
+[ipc] control 3 on pctl (handle 10d)
+[ipc] control 0 on pctl (handle 10d)
+[sm] GetService pctl:s
+[ipc] control 3 on pctl:s (handle 10e)
+[ipc] control 0 on pctl:s (handle 10e)
+[ipc] close session pctl:s (handle 10e)
+[sm] GetService pctl:a
+[ipc] control 3 on pctl:a (handle 10e)
+[ipc] control 0 on pctl:a (handle 10e)
+[ipc] close session pctl:a (handle 10e)
+[sm] GetService pctl:r
+[ipc] control 3 on pctl:r (handle 10e)
+[ipc] control 0 on pctl:r (handle 10e)
+[ipc] close session pctl:r (handle 10e)
+[kernel] GetInfo id0=22 id1=0 -> v=0x4000000 (r=0x0)
+[kernel] GetInfo id0=21 id1=0 -> v=0xcd500000 (r=0x0)
+[heaps] StandardAllocator::Initialize(this=0x71042acf98, addr=0x0, size=0x800000000, cache=1) from lr=0x710273cf7c
+[os:vamm] IsVirtualAddressMemoryEnabled -> true
+[os:vamm] IsVirtualAddressMemoryEnabled -> true
+[os:vamm] AllocateAddressRegion(size=0x800000000) -> 0x7400000000 (out_ptr=0x723ffffe78)
+[os:vamm] AllocateMemoryPages(addr=0x7400000000, size=0x1000)
+[os:vamm] AllocateMemoryPages(addr=0x7400000000, size=0x4840000)
+[input] mouse held by the window: it turns the camera
+[os:tls] AllocateTlsSlot -> slot 1 (destructor=0x71062f9910, out_ptr=0x71042acfa8)
+[heaps] StandardAllocator::Initialize returned ok
+[os:vamm] IsVirtualAddressMemoryEnabled -> true
+[kernel] GetInfo id0=22 id1=0 -> v=0x5000000 (r=0x0)
+[kernel] GetInfo id0=21 id1=0 -> v=0xcd500000 (r=0x0)
+[kernel] GetInfo id0=22 id1=0 -> v=0x5000000 (r=0x0)
+[kernel] GetInfo id0=21 id1=0 -> v=0xcd500000 (r=0x0)
+[os:vamm] GetVirtualAddressMemoryResourceUsage -> 0x800000000
+[os:vamm] AllocateMemoryPages(addr=0x7b37b00000, size=0xc8500000)
+[kernel] GetInfo id0=22 id1=0 -> v=0x5000000 (r=0x0)
+[kernel] GetInfo id0=21 id1=0 -> v=0xcd500000 (r=0x0)
+init main (DT_INIT 7100000030, 1892 init_array entries)
+[os:tls] AllocateTlsSlot -> slot 2 (destructor=0x0, out_ptr=0x710425f854)
+[os:tls] AllocateTlsSlot -> slot 3 (destructor=0x0, out_ptr=0x7104261e68)
+[sm] GetService time:u
+[ipc] control 3 on time:u (handle 10e)
+[ipc] control 0 on time:u (handle 10e)
+[time] shared memory mapped at 72110dc000
+[os:vamm] AllocateMemoryPages(addr=0x7404800000, size=0x80000)
+[kernel] CreateThread entry=7106350180 stack=7234e6afe0 prio=44 -> 110
+[kernel] CreateThread entry=7106350180 stack=7206d34fe0 prio=44 -> 111
+[sm] GetService hid
+[ipc] control 3 on hid (handle 112)
+[am] ISelfController cmd 12 (unhandled, ok)
+[kernel] CreateThread entry=7106350180 stack=723724bfe0 prio=46 -> 115
+[sm] GetService fsp-srv
+[ipc] control 3 on fsp-srv (handle 117)
+[ipc] control 0 on fsp-srv (handle 117)
+[ipc] control 2 on fsp-srv (handle 117)
+[ipc] control 2 on fsp-srv (handle 118)
+[fs] romfs: 18370 files served from extracted/romfs
+[fs] romfs index: 18370 files
+[fs] romfs reads: 1 (0 KB)
+[fs] romfs reads: 2 (0 KB)
+[fs] romfs reads: 4 (44 KB)
+[os:vamm] AllocateMemoryPages(addr=0x7404840000, size=0x80000)
+[kernel] CreateThread entry=7106350180 stack=721f095fe0 prio=44 -> 11a
+[aoc] 0 add-on content(s) installed
+[os:vamm] AllocateMemoryPages(addr=0x7404880000, size=0x80000)
+[kernel] CreateThread entry=7106350180 stack=72032adfe0 prio=30 -> 11b
+[kernel] CreateThread entry=7106350180 stack=720096efe0 prio=45 -> 11c
+[kernel] CreateThread entry=7106350180 stack=7210ecffe0 prio=45 -> 11d
+[kernel] CreateThread entry=7106350180 stack=7222a6afe0 prio=45 -> 11e
+[vk] NVIDIA GeForce RTX 3050, swapchain 1280x720
+[vk] guest memory window: physical memory 7b37b00000 +c8500000 (Arceus, 3205 MB)
+[vk] set reuse: 15 dynamic uniform buffers allowed; a program with 4 dynamic, 0 left static
+[vk] depth24 stencil8: D24_UNORM_S8_UINT
+[vk] prepared 35 pipelines (7 records shared one, vertex input dynamic)
+[shader] prepared 5 + 37 seen before, not found 1580 (0 failed; index 7366 shaders in 1638 ms, total 1657 ms)
+[nvn] device initialized
+[nvn] window origin mode 1
+[nvn] depth mode 1
+[nvn] window with 2 textures
+[kernel] CreateThread entry=7106350180 stack=720f8d5fe0 prio=40 -> 11f
+[kernel] CreateThread entry=7106350180 stack=7218ca4fe0 prio=40 -> 120
+[kernel] CreateThread entry=7106350180 stack=7227253fe0 prio=40 -> 121
+[kernel] CreateThread entry=7106350180 stack=7225147fe0 prio=45 -> 122
+[fs] romfs reads: 8 (1122 KB)
+[os:vamm] AllocateMemoryPages(addr=0x7404900000, size=0x40000)
+[fs] romfs reads: 16 (3065 KB)
+[os:vamm] AllocateMemoryPages(addr=0x7404900000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7404940000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x74049c0000, size=0x80000)
+[fs] romfs reads: 32 (4743 KB)
+[rq] render thread on (first asked by guest thread 80)
+[os:vamm] AllocateMemoryPages(addr=0x7404a00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7404a40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7404ac0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7404ac0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7404b00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7404b40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7404bc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7404c00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7404c40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7404c40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7404c80000, size=0x100000)
+[os:vamm] AllocateMemoryPages(addr=0x7404d40000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7404dc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7404e40000, size=0x40000)
+[fs] romfs reads: 64 (23329 KB)
+[texpatch] 0 known textures (button glyphs, pictogram sheet, Hero Mode icon, bottle icon / model, tunic, hearts)
+[os:vamm] AllocateMemoryPages(addr=0x7404e40000, size=0x80000)
+[vk] transient ring: memory type 5 (device-local host-visible )
+[recolour] hair / shield: 0 textures from 1 files
+[os:vamm] AllocateMemoryPages(addr=0x7404ec0000, size=0x40000)
+[recolour] leaves / grass / sand: 0 textures from 10 files
+[os:vamm] AllocateMemoryPages(addr=0x7404ec0000, size=0x80000)
+[am] game mode: docked (auto)
+[recolour] enemy colours: 0 textures from 85 files
+[recolour] game files read in 2 ms
+[os:vamm] AllocateMemoryPages(addr=0x7404f40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7404f80000, size=0x40000)
+[os:tls] AllocateTlsSlot -> slot 4 (destructor=0x71032001b4, out_ptr=0x710420d0f8)
+[os:vamm] AllocateMemoryPages(addr=0x7404f80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7404fc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405040000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405080000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74050c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74050c0000, size=0x80000)
+[kernel] CreateThread entry=7106350180 stack=721416efe0 prio=36 -> 123
+[kernel] CreateThread entry=7106350180 stack=720ce1afe0 prio=36 -> 124
+[os:vamm] AllocateMemoryPages(addr=0x7405100000, size=0x80000)
+[kernel] CreateThread entry=7106350180 stack=7227339fe0 prio=36 -> 125
+[os:vamm] AllocateMemoryPages(addr=0x7405140000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x74051c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405200000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7405280000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74052c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405300000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405340000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x74053c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405400000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405440000, size=0x80000)
+[kernel] CreateThread entry=7106350180 stack=7208e49fe0 prio=44 -> 126
+[os:vamm] AllocateMemoryPages(addr=0x7405480000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74054c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405500000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405540000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405580000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74055c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405600000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405640000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405680000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74056c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405700000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405740000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405780000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74057c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405800000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405840000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405880000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74058c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405940000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405940000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74059c0000, size=0x40000)
+[fs] romfs reads: 128 (24135 KB)
+[os:vamm] AllocateMemoryPages(addr=0x7405a00000, size=0x40000)
+[sm] GetService audren:u
+[ipc] close session audren:u (handle 127)
+[ipc] close session IAudioDevice (handle 128)
+[os:vamm] AllocateMemoryPages(addr=0x7405a00000, size=0x80000)
+[kernel] CreateThread entry=7106350180 stack=72089affe0 prio=28 -> 128
+[kernel] CreateThread entry=7106350180 stack=720b64efe0 prio=28 -> 12a
+[sm] GetService audren:u
+[ipc] close session audren:u (handle 12b)
+[ipc] close session IAudioDevice (handle 12c)
+[sm] GetService audren:u
+[ipc] close session audren:u (handle 12b)
+[ipc] control 3 on IAudioDevice (handle 12c)
+[ipc] close session IAudioDevice (handle 12c)
+[os:vamm] AllocateMemoryPages(addr=0x7405a40000, size=0x80000)
+[kernel] CreateThread entry=7106350180 stack=7232efefe0 prio=28 -> 12b
+[sm] GetService hwopus
+[ipc] control 3 on hwopus (handle 12c)
+[ipc] control 0 on hwopus (handle 12c)
+[hwopus] GetWorkBufferSize cmd 1 -> 0x8000
+[hwopus] GetWorkBufferSize cmd 1 -> 0x8000
+[hwopus] GetWorkBufferSize cmd 1 -> 0x8000
+[hwopus] GetWorkBufferSize cmd 1 -> 0x8000
+[hwopus] GetWorkBufferSize cmd 1 -> 0x8000
+[hwopus] GetWorkBufferSize cmd 1 -> 0x8000
+[hwopus] GetWorkBufferSize cmd 1 -> 0x8000
+[hwopus] GetWorkBufferSize cmd 1 -> 0x8000
+[hwopus] GetWorkBufferSize cmd 1 -> 0x8000
+[hwopus] GetWorkBufferSize cmd 1 -> 0x8000
+[kernel] CreateThread entry=7106350180 stack=720ca73fe0 prio=28 -> 12d
+[os:vamm] AllocateMemoryPages(addr=0x7405a80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405ac0000, size=0x80000)
+[kernel] CreateThread entry=7106350180 stack=722ce84fe0 prio=29 -> 12e
+[os:vamm] AllocateMemoryPages(addr=0x7405b40000, size=0x40000)
+[fs] romfs reads: 256 (25468 KB)
+[fs] romfs reads: 512 (29564 KB)
+[fs] romfs reads: 1024 (37756 KB)
+[os:vamm] AllocateMemoryPages(addr=0x7405b80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405b80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405bc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405c40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405c80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405cc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405d00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405d00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405d80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405dc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405e00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405e40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405e80000, size=0x40000)
+[fs] romfs reads: 2048 (54076 KB)
+[os:vamm] AllocateMemoryPages(addr=0x7405ec0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405ec0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7405f40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405f80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405fc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7405fc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406040000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7406080000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74060c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7406100000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7406100000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406140000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74061c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74061c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406200000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406280000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74062c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74062c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406340000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7406340000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74063c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7406400000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7406440000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7406440000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406480000, size=0xc0000)
+[sm] GetService set
+[ipc] close session set (handle 12f)
+[sm] GetService pl:u
+[pl] button prompts: keyboard
+[pl] system font C:/Windows/Fonts/YuGothR.ttc (13271836 bytes)
+[pl] system font C:/Windows/Fonts/msyh.ttc (19583608 bytes)
+[pl] system font C:/Windows/Fonts/msjh.ttc (21341848 bytes)
+[pl] system font C:/Windows/Fonts/malgun.ttf (13457164 bytes)
+[pl:svc] RequestLoad(type=4)
+[ipc] close session pl:u (handle 12f)
+[sm] GetService pl:u
+[pl:svc] RequestLoad(type=2)
+[ipc] close session pl:u (handle 12f)
+[sm] GetService pl:u
+[pl:svc] RequestLoad(type=1)
+[ipc] close session pl:u (handle 12f)
+[sm] GetService pl:u
+[pl:svc] RequestLoad(type=3)
+[ipc] close session pl:u (handle 12f)
+[os:vamm] AllocateMemoryPages(addr=0x7406540000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7406540000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406580000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7406600000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406640000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x74066c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406700000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7406780000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74067c0000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7406880000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74068c0000, size=0x40000)
+[fs] romfs reads: 4096 (91574 KB)
+[os:vamm] AllocateMemoryPages(addr=0x74068c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406900000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406940000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406980000, size=0x80000)
+[am] ISelfController cmd 13 (unhandled, ok)
+[am] ISelfController cmd 16 (unhandled, ok)
+[am] ISelfController cmd 11 (unhandled, ok)
+[input] GetNpadStyleSet id 0
+[kernel] CreateThread entry=7106350180 stack=72104cdfe0 prio=44 -> 12f
+[input] style set update event bound
+[input] style set update event bound
+[os:vamm] AllocateMemoryPages(addr=0x74069c0000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7406a40000, size=0x80000)
+[sm] GetService csrng
+[os:vamm] AllocateMemoryPages(addr=0x7406a80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406b00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7406b00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406b40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406bc0000, size=0x40000)
+[sm] GetService acc:u0
+[ipc] control 3 on acc:u0 (handle 135)
+[ipc] control 0 on acc:u0 (handle 135)
+[sm] GetService friend:u
+[ipc] control 3 on friend:u (handle 136)
+[ipc] control 0 on friend:u (handle 136)
+[ipc] control 2 on friend:u (handle 136)
+[ipc] control 2 on friend:u (handle 137)
+[ipc] control 2 on friend:u (handle 138)
+[friend] friend:u CreateFriendService
+[time] StandardUserSystemClock::GetCurrentTime (host clock)
+[time] ITimeZoneService cmd 4 (ok)
+[time] IStaticService cmd 400 (ok)
+[os:vamm] AllocateMemoryPages(addr=0x7406bc0000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7406c40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406c80000, size=0xc0000)
+[fs] mounted host directory save/arceus/save_0
+[fs] mounted host directory save/arceus/save_0
+[fs] mounted host directory save/arceus/save_0
+[fs] mounted host directory save/arceus/save_0
+[fs] mounted host directory save/arceus/save_0
+[fs] mounted host directory save/arceus/save_0
+[fs] mounted host directory save/arceus/save_0
+[fs] mounted host directory save/arceus/save_0
+[fs] mounted host directory save/arceus/save_0
+[fs] mounted host directory save/arceus/save_0
+[fs] mounted host directory save/arceus/save_0
+[fs] mounted host directory save/arceus/save_0
+[fs] mounted host directory save/arceus/save_0
+[fs] mounted host directory save/arceus/save_0
+[os:vamm] AllocateMemoryPages(addr=0x7406d00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406d40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406d80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406e00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7406e00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406e40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406e80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406ec0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406f00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406f80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7406f80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7406fc0000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7407080000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7407080000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7407100000, size=0xc0000)
+[time] StandardUserSystemClock::GetCurrentTime (host clock)
+[time] ITimeZoneService cmd 4 (ok)
+[sm] GetService audren:u
+[ipc] close session audren:u (handle 13a)
+[ipc] control 3 on IAudioDevice (handle 13b)
+[ipc] close session IAudioDevice (handle 13b)
+[heaps] StandardAllocator::Initialize(this=0x7406a929b0, addr=0x71042c7000, size=0x20000, cache=0) from lr=0x0
+[heaps] StandardAllocator::Initialize returned ok
+[sm] GetService audout:u
+[input] GetNpadStyleSet id 0
+[input] GetNpadStyleSet id 0
+[input] GetNpadStyleSet id 0x20
+[input] GetNpadState id 0x20 lr 7100c994c4
+[audout] opened 48000 Hz, 2 ch
+[ipc] close session audout:u (handle 13a)
+[ipc] control 3 on IAudioOut (handle 13d)
+[os:vamm] AllocateMemoryPages(addr=0x74071c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7407200000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7407240000, size=0x40000)
+[present] window texture 1920x1080, crop 0,0 1920x1080, interval 2
+[nvn] present interval 2
+[nvn] ReportCounter type 16
+[vk] GPU overlap off (the game's frame fence waited one frame late; LARECOMP_GPU_OVERLAP=1: on)
+[vk] pass with an empty color slot 0 of 2 (texture none)
+[os:vamm] AllocateMemoryPages(addr=0x7407280000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74072c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74072c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407300000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407340000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407380000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407400000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7407400000, size=0x80000)
+[vk] gmem: window 3205 MB, import on
+[os:vamm] AllocateMemoryPages(addr=0x7407440000, size=0x80000)
+[vk] guest heap imported for shader global memory: 3205 MB from heap offset 0 MB
+[shader] first visit 1: pipeline 1dce51da93cb836e 2ef3462ae495e47c
+[shader] first visit 2: pipeline 45c276b81c6579ac 9b84c034656c9d69
+[nvn] ReportCounter type 0
+[scale] frame 0 drawable 1280x720 -> render scale 1.000x1.000 (reshape 0)
+[vk] samplers: mip bias 0.0, texture filtering high
+[post] 1920x1080 smaa box -> 1280x720, sharpening -1.0
+[qol] tunics as upgrades: off
+[shader] first visit 3: pipeline ae4f761c1ad466fc 6f8283bc7cec29ba
+[os:vamm] AllocateMemoryPages(addr=0x74074c0000, size=0x40000)
+[shader] first visit 4: pipeline cd3856d39b7f0268 812890ca8c9248ef
+[shader] first visit 5: pipeline 1dce51da93cb836e 343aee815965fddb
+[shader] first visit 6: pipeline 1dce51da93cb836e 0b421b259cad4682
+[shader] first visit 7: pipeline 114ab2239a385143 a88e9a4e2781ed44
+[shader] first visit 8: pipeline 1dce51da93cb836e 50168ddbeae2736c
+[shader] first visit 9: pipeline 1dce51da93cb836e b67254d8cbb02423
+[os:vamm] AllocateMemoryPages(addr=0x7407500000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7407500000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407540000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74075c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74075c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407640000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7407680000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7407680000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74076c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407700000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407780000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7407780000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74077c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407800000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407840000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407880000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74078c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407900000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407940000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407980000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407a00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7407a00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407a40000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7407ac0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407b00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407b80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7407b80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407bc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407c00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407c40000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7407d00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7407d00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407d40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407d80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407dc0000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7407e80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7407ec0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7407ec0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407f00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407f40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407f80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7407fc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408040000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7408040000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408080000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408100000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7408100000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7408180000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7408240000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7408280000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7408280000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408300000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7408300000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408340000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408380000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74083c0000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7408440000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x74084c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408500000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x7408580000, size=0x100000)
+[os:vamm] AllocateMemoryPages(addr=0x7408640000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408680000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74086c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408700000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408740000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408780000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74087c0000, size=0x140000)
+[os:vamm] AllocateMemoryPages(addr=0x7408900000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7408900000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408940000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408980000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74089c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408a00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408a40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408a80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408ac0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408b00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408b80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7408b80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408bc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408c00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408c40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408c80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408cc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408d00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408d40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408d80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408dc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408e00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408e80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7408e80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7408f00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7408f40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7408f80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7408fc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7408fc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7409040000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409040000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74090c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74090c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7409100000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7409140000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74091c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74091c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7409240000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409280000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74092c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409300000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409300000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7409380000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74093c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409400000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409440000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409480000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74094c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409500000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409540000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409580000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409580000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74095c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7409640000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409680000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409680000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7409700000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409700000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7409740000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x74097c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409800000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409800000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7409880000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74098c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409900000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409940000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409980000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x74099c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409a00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409a40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409a80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409ac0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409b00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409b40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409b80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409bc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409c00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409c40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409c80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409cc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409cc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7409d40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409d80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409dc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409e00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409e00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7409e80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409ec0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409f00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x7409f00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x7409f80000, size=0x40000)
+[kernel] CreateThread entry=7106350180 stack=722eb7bfe0 prio=44 -> 13a
+[os:vamm] AllocateMemoryPages(addr=0x7409f80000, size=0x80000)
+[kernel] CreateThread entry=7106350180 stack=723d14afe0 prio=44 -> 13e
+[kernel] CreateThread entry=7106350180 stack=7234ba8fe0 prio=44 -> 13f
+[time] StandardUserSystemClock::GetCurrentTime (host clock)
+[time] ITimeZoneService cmd 4 (ok)
+[time] IStaticService cmd 400 (ok)
+[os:vamm] AllocateMemoryPages(addr=0x7409fc0000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740a040000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740a080000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740a0c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740a100000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740a180000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740a200000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740a240000, size=0x80000)
+[shader] first visit 10: pipeline a9951c5c66c44f08 b51b94b33c238808
+[shader] first visit 11: pipeline c965eea9fe3a9181 f05eae47afe1e998
+[os:vamm] AllocateMemoryPages(addr=0x740a280000, size=0x80000)
+[pace] left out 27 of 28 frames after a 738 ms frame: 0 late, 27 busy
+[vk] command counts: 0:10648 1:5249 2:6105 3:927 4:778 5:660 6:1014 7:797 8:915 9:738 10:158 11:158 12:115 13:4092 14:59 15:12978 16:59 17:59 18:59 19:3985 20:3985 21:4221 22:3985 23:1899 24:10150 26:1534 27:207 28:207 29:2 33:1298 34:2360 35:2 37:769 38:158 46:238 51:13071 54:118 66:207 68:207
+[vk] copy alias: 27 made, 26 renamed, 0 stencil-only, 0 copied later (live 1)
+[vk] t=18.0 frame 58 28.7 fps max 84ms level - (927 draws, 0 skipped, 1332 passes, 0 dispatches, 1407 flushes, wait 236ms, compile 77, fbcopy 177, upload 35.1MB, vertices 0MB cached 0MB host, xfb sessions 0, scene waits 0ms, deferred 0, snap 0KB/0)
+[vk] command counts: 0:21508 1:10671 2:12345 3:1898 4:1629 5:1391 6:2105 7:1637 8:1875 9:1518 10:349 11:349 12:246 13:8314 14:119 15:26189 16:119 17:119 18:119 19:8065 20:8065 21:8541 22:8065 23:3890 24:20590 26:3094 27:447 28:447 29:2 33:2618 34:4760 35:2 37:1549 38:349 46:478 51:26391 54:238 66:447 68:447
+[vk] copy alias: 60 made, 60 renamed, 0 stencil-only, 0 copied later (live 1)
+[vk] t=20.0 frame 118 30.0 fps max 34ms level - (971 draws, 0 skipped, 1380 passes, 0 dispatches, 300 flushes, wait 125ms, compile 0, fbcopy 180, upload 13.1MB, vertices 0MB cached 0MB host, xfb sessions 0, scene waits 0ms, deferred 0, snap 0KB/0)
+[nvn] texture 16x16 fmt 0x49 finalized while in 1 texture pool slot(s): emptied
+[nvn] texture 1200x256 fmt 0x49 finalized while in 1 texture pool slot(s): emptied
+[time] ITimeZoneService cmd 4 (ok)
+[time] IStaticService cmd 400 (ok)
+[shader] first visit 12: pipeline 1dce51da93cb836e c5046bec430552ed
+[os:vamm] AllocateMemoryPages(addr=0x740a300000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740a340000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740a340000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740a380000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740a440000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740a440000, size=0x80000)
+[shader] first visit 13: pipeline 1dce51da93cb836e ea32e0823c50cb5e
+[shader] first visit 14: pipeline 1dce51da93cb836e c07a6c12bac9a420
+[shader] first visit 15: pipeline cd3856d39b7f0268 396e07a51e731c41
+[shader] first visit 16: pipeline cd3856d39b7f0268 7cab5b67dff50c4a
+[shader] first visit 17: pipeline 1dce51da93cb836e 51e59624b855a0be
+[shader] first visit 18: pipeline 1dce51da93cb836e c6f8d25a81f59d54
+[shader] first visit 19: pipeline cd3856d39b7f0268 cb50a4a6323250d6
+[os:vamm] AllocateMemoryPages(addr=0x740a480000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740a4c0000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740a540000, size=0x80000)
+[shader] first visit 20: pipeline 10e0bfa8821c4de8 9b9385546d6503aa
+[cursor] hidden (key): SDL cursor visible=0
+[vk] command counts: 0:33281 1:17511 2:19498 3:3817 4:3288 5:2702 6:4688 7:3314 8:2832 9:2337 10:572 11:572 12:441 13:14040 14:231 15:40033 16:179 17:179 18:179 19:12142 20:12142 21:13732 22:12142 23:7373 24:36506 26:5566 27:684 28:684 29:2 33:3858 34:7160 35:2 37:3245 38:1409 46:718 51:40624 54:358 66:684 68:684
+[vk] copy alias: 60 made, 60 renamed, 0 stencil-only, 0 copied later (live 1)
+[vk] t=22.0 frame 178 30.0 fps max 36ms level - (2756 draws, 0 skipped, 2239 passes, 0 dispatches, 414 flushes, wait 131ms, compile 9, fbcopy 218, upload 35.9MB, vertices 0MB cached 0MB host, xfb sessions 0, scene waits 0ms, deferred 0, snap 0KB/0)
+[os:vamm] AllocateMemoryPages(addr=0x740a580000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740a5c0000, size=0x80000)
+[nvn] texture 16x16 fmt 0x49 finalized while in 1 texture pool slot(s): emptied
+[nvn] texture 512x512 fmt 0x4d finalized while in 1 texture pool slot(s): emptied
+[nvn] texture 32x32 fmt 0x4b finalized while in 1 texture pool slot(s): emptied
+[nvn] texture 32x4 fmt 0x4b finalized while in 1 texture pool slot(s): emptied
+[nvn] texture 32x108 fmt 0x44 finalized while in 1 texture pool slot(s): emptied
+[nvn] texture 20x108 fmt 0x49 finalized while in 1 texture pool slot(s): emptied (further ones not logged)
+[os:vamm] AllocateMemoryPages(addr=0x740a600000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740a680000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740a700000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740a780000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740a7c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740a7c0000, size=0x100000)
+[os:vamm] AllocateMemoryPages(addr=0x740a880000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740a900000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740a940000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740a980000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740a9c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740aa40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740aa80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740aa80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740ab00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ab40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ab80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740abc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740abc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740ac40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ac80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ac80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740acc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740ad00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740ad40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740adc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ae00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ae40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ae40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740aec0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740aec0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740af00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740af40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740afc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740afc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b000000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b040000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b080000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b100000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b100000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b180000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b1c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b1c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b200000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b240000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b280000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b2c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b340000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b380000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b3c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b400000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b440000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b480000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b4c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b500000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b540000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b540000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b580000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740b600000, size=0x100000)
+[os:vamm] AllocateMemoryPages(addr=0x740b6c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b700000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b740000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b780000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b800000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b840000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b880000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b8c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b900000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b940000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740b940000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740b9c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ba00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ba40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ba80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ba80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740bac0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740bb00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740bb40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740bbc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740bc00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740bc40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740bc40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740bc80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740bd00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740bd00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740bd40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740bd80000, size=0x100000)
+[os:vamm] AllocateMemoryPages(addr=0x740be40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740be80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740bf00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740bf40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740bf80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740bfc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c000000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c040000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c080000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c0c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c100000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c140000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c180000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c1c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c200000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c200000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c240000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c280000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c300000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c300000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c340000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c380000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c3c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c440000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c480000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c480000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c4c0000, size=0x100000)
+[os:vamm] AllocateMemoryPages(addr=0x740c580000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c5c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c600000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c640000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c680000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c6c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c700000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c780000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c7c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c800000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c840000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c880000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c8c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c8c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c940000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c980000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740c980000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740c9c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740ca00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740ca40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740ca80000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740cb00000, size=0x100000)
+[os:vamm] AllocateMemoryPages(addr=0x740cbc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740cc00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740cc80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ccc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740cd00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740cd40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740cd80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740cdc0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ce00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ce40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ce80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ce80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740cf00000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740cf00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740cf40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740cf80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740cfc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d040000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d040000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d080000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d100000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d140000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d140000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d180000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d1c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d200000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d240000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d280000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740d300000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d380000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d3c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d400000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d440000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d480000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d4c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d500000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d500000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d580000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d5c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d600000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d640000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d680000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d680000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d6c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d700000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d740000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d780000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d800000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d840000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d880000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740d880000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d8c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d900000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d940000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d980000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740d9c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740da00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740da40000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740dac0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740db00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740db40000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740dc00000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740dc80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740dcc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740dd00000, size=0x140000)
+[os:vamm] AllocateMemoryPages(addr=0x740de00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740de40000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740dec0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740df40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740df80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740df80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e000000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e040000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e040000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e0c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e100000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e140000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e180000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e180000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e200000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e240000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e240000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e280000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e2c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e300000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e380000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e380000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e3c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e440000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e440000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e4c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e500000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e540000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e580000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e580000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e5c0000, size=0x100000)
+[os:vamm] AllocateMemoryPages(addr=0x740e680000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740e700000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e740000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e7c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e7c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e840000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e880000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e880000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e8c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e900000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e940000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740e9c0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740e9c0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740ea40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ea40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740eac0000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740eac0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740eb40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740eb80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740eb80000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740ebc0000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740ec00000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740ec40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740ec80000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740ed40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ed80000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ed80000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740ee40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ee40000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740ee80000, size=0xc0000)
+[os:vamm] AllocateMemoryPages(addr=0x740ef40000, size=0x40000)
+[os:vamm] AllocateMemoryPages(addr=0x740ef40000, size=0x100000)
+[os:vamm] AllocateMemoryPages(addr=0x740f000000, size=0x80000)
+[os:vamm] AllocateMemoryPages(addr=0x740f040000, size=0x80000)
+[slow] frame 201 1207 ms in -: 1575 texture uploads 34.1 MB, 1575 full texture hashes, 2 submissions, gpu wait 0 ms, render cpu 12 ms, game cpu 0 ms, queue wait 0 ms, vsync/pace wait 1208 ms
+[vk] copy alias: 25 made, 25 renamed, 0 stencil-only, 0 copied later (live 1)
+[vk] t=24.0 frame 203 12.5 fps max 1217ms level - (1431 draws, 0 skipped, 1138 passes, 0 dispatches, 200 flushes, wait 62ms, compile 0, fbcopy 100, upload 38.0MB, vertices 0MB cached 0MB host, xfb sessions 0, scene waits 0ms, deferred 0, snap 0KB/0)
+[shader] first visit 21: pipeline 6cc6e88731b62234 9b9385546d6503aa
+[pace] left out 29 of 29 frames after a 1208 ms frame: 0 late, 29 busy
+[vk] copy alias: 60 made, 60 renamed, 0 stencil-only, 0 copied later (live 1)
+[vk] t=26.0 frame 263 30.0 fps max 34ms level - (2771 draws, 0 skipped, 2755 passes, 0 dispatches, 480 flushes, wait 3ms, compile 1, fbcopy 240, upload 44.9MB, vertices 0MB cached 0MB host, xfb sessions 0, scene waits 0ms, deferred 0, snap 0KB/0)
+[input] GetNpadState id 0x20 lr 7100c994c4
+[vk] copy alias: 60 made, 60 renamed, 0 stencil-only, 0 copied later (live 1)
+[vk] t=28.0 frame 323 30.0 fps max 34ms level - (2820 draws, 0 skipped, 2760 passes, 0 dispatches, 480 flushes, wait 2ms, compile 0, fbcopy 240, upload 40.7MB, vertices 0MB cached 0MB host, xfb sessions 0, scene waits 0ms, deferred 0, snap 0KB/0)
+[vk] t=30.0 frame 383 30.0 fps max 34ms level - (2712 draws, 0 skipped, 2752 passes, 0 dispatches, 480 flushes, wait 3ms, compile 0, fbcopy 240, upload 38.6MB, vertices 0MB cached 0MB host, xfb sessions 0, scene waits 0ms, deferred 0, snap 0KB/0)
+[vk] t=32.1 frame 444 30.0 fps max 34ms level - (2379 draws, 0 skipped, 2806 passes, 0 dispatches, 488 flushes, wait 4ms, compile 0, fbcopy 244, upload 33.5MB, vertices 0MB cached 0MB host, xfb sessions 0, scene waits 0ms, deferred 0, snap 0KB/0)
+[shader] first visit 22: program 6f7194dfde80582c 820a92dd848c46b7
+[shader] first visit 23: pipeline 6f7194dfde80582c 820a92dd848c46b7
+[shader] first visit 24: program 6b21fb4cb3e3d542 b83088350f321a12
+[shader] first visit 25: pipeline 6b21fb4cb3e3d542 b83088350f321a12
+[shader] first visit 26: program 13f9e76aeea5dfc4 820a92dd848c46b7
+[shader] first visit 27: program ccb0b18379bf3815 e66074bb5f8998d7
+[shader] first visit 28: program 2b0bfa0b564d916d 3ef6af6dba6c12ea
+[shader] first visit 29: program 486b605755a9e61c 7315ac1e5c61c7b4
+[shader] first visit 30: program c3343a461ee97395 6cb243388aa1aac8
+[shader] first visit 31: program 8c30aa1b4bd3306e 90856ead68062231
+[shader] first visit 32: program 5ca79fcaf2ffb3c7 17f13289bf2ab1bc
+[shader] first visit 33: program 9bc58ac89fe18aec f69d36b1649526eb
+[shader] first visit 34: program 2c5fc74900aeb31e eb8c8283b086ed38
+[shader] first visit 35: program ca169932d331a139 bc4d09bbc1a69987
+[shader] first visit 36: program 85effbe256752fc1 f53b1a4fa8de61e2
+[shader] first visit 37: program a9366e06e98af3cb f53b1a4fa8de61e2
+[shader] first visit 38: program 1dce51da93cb836e f3c8c573da5d7154
+[shader] first visit 39: program 114ab2239a385143 a88e9a4e2781ed44
+[shader] first visit 40: program 1dce51da93cb836e ea32e0823c50cb5e
+[shader] first visit 41: pipeline 1dce51da93cb836e ea32e0823c50cb5e
+[shader] first visit 42: program 1dce51da93cb836e c07a6c12bac9a420
+[shader] first visit 43: pipeline 1dce51da93cb836e c07a6c12bac9a420
+[shader] first visit 44: program cd3856d39b7f0268 396e07a51e731c41
+[shader] first visit 45: pipeline cd3856d39b7f0268 396e07a51e731c41
+[shader] first visit 46: program cd3856d39b7f0268 7cab5b67dff50c4a
+[shader] first visit 47: pipeline cd3856d39b7f0268 7cab5b67dff50c4a
+[shader] first visit 48: program 1dce51da93cb836e 51e59624b855a0be
+[shader] first visit 49: program 1dce51da93cb836e c6f8d25a81f59d54
+[shader] first visit 50: program a9951c5c66c44f08 b51b94b33c238808
+[shader] first visit 51: program 1dce51da93cb836e 50168ddbeae2736c
+[shader] first visit 52: program 1dce51da93cb836e b67254d8cbb02423
+[shader] first visit 53: pipeline 1dce51da93cb836e b67254d8cbb02423
+[shader] first visit 54: program cd3856d39b7f0268 cb50a4a6323250d6
+[hwopus] OpenHardwareOpusDecoder cmd 0
+[hwopus:dec] cmd 8 (ok)
+[hwopus:dec] cmd 8 (ok)
+[hwopus:dec] cmd 8 (ok)
+[hwopus:dec] cmd 8 (ok)
+[hwopus:dec] cmd 8 (ok)
+[hwopus:dec] cmd 8 (ok)
+[shader] first visit 55: pipeline 13f9e76aeea5dfc4 820a92dd848c46b7
+[shader] first visit 56: pipeline ccb0b18379bf3815 e66074bb5f8998d7
+[shader] first visit 57: pipeline 2b0bfa0b564d916d 3ef6af6dba6c12ea
+[shader] first visit 58: pipeline 486b605755a9e61c 7315ac1e5c61c7b4
+[shader] first visit 59: pipeline c3343a461ee97395 6cb243388aa1aac8
+[shader] first visit 60: pipeline 8c30aa1b4bd3306e 90856ead68062231
+[shader] first visit 61: pipeline 5ca79fcaf2ffb3c7 17f13289bf2ab1bc
+[shader] first visit 62: pipeline 9bc58ac89fe18aec f69d36b1649526eb
+[shader] first visit 63: pipeline 2c5fc74900aeb31e eb8c8283b086ed38
+[shader] first visit 64: pipeline ca169932d331a139 bc4d09bbc1a69987
+[shader] first visit 65: pipeline 85effbe256752fc1 f53b1a4fa8de61e2
+[shader] first visit 66: pipeline a9366e06e98af3cb f53b1a4fa8de61e2
+[shader] first visit 67: pipeline 1dce51da93cb836e f3c8c573da5d7154
+[shader] first visit 68: pipeline 114ab2239a385143 a88e9a4e2781ed44
+[shader] first visit 69: pipeline 1dce51da93cb836e 51e59624b855a0be
+[shader] first visit 70: pipeline 1dce51da93cb836e c6f8d25a81f59d54
+[shader] first visit 71: pipeline a9951c5c66c44f08 b51b94b33c238808
+[shader] first visit 72: pipeline 1dce51da93cb836e 50168ddbeae2736c
+[shader] first visit 73: pipeline cd3856d39b7f0268 cb50a4a6323250d6
+
+*** exception c0000005 accessing 0xffffffffffffffff
+    host pc 7ffa9ad914d0 (f_7102a6f754+160)
+    host lr f (?)
+host backtrace (guest functions are f_<addr>):
+  #0  00007ff652ec1178 lasrecomp+b1178
+  #1  00007ff652e12c71 lasrecomp+2c71
+  #2  00007ff652e13df8 lasrecomp+3df8
+  #3  00007ff652ec1359 lasrecomp+b1359
+  #4  00007ffb8c60c507 KERNELBASE.dll+12c507
+  #5  00007ffb8ead58d8 ntdll.dll+a58d8
+  #6  00007ffb8eabce46 ntdll.dll+8ce46
+  #7  00007ffb8ead296f ntdll.dll+a296f
+  #8  00007ffb8ea82554 ntdll.dll+52554
+  #9  00007ffb8ead147e ntdll.dll+a147e
+  #10 00007ffa9ad914d0 lasgame.dll+39414d0
+  #11 00007ffa9adef345 lasgame.dll+399f345
+  #12 00007ffa9adf4b83 lasgame.dll+39a4b83
+  #13 00007ffa9a6fc902 lasgame.dll+32ac902
+  #14 00007ffa9a660f6f lasgame.dll+3210f6f
+  #15 00007ffaa8d85657 lasgame.dll+11935657
+  #16 00007ffaa8da03f2 lasgame.dll+119503f2
+  #17 00007ff652e135dd lasrecomp+35dd
+  #18 00007ff652e1d70e lasrecomp+d70e
+  #19 00007ff652e1d797 lasrecomp+d797
+  #20 00007ffb8c201bb2 ucrtbase.dll+21bb2
+  #21 00007ffb8ca37374 KERNEL32.DLL+17374
+  #22 00007ffb8ea7cc91 ntdll.dll+4cc91
+guest: sp=7218ca4980 lr=7102a84eb4
+  x0  000000740adc8c00  x1  00000074048bf000  x2  00000000000001da  x3  0000000000000006
+  x4  00000074054e5020  x5  0000000000000000  x6  0000007080001dd0  x7  0000000000000000
+  x8  000000740adc8c00  x9  00000074048bd000  x10 0000000000000000  x11 0000000000000080
+  x12 000000003f800000  x13 0000000000000000  x14 00000071042682a8  x15 0000007218ca4cf0
+  x16 000000710422cf20  x17 00000071063b4f34  x18 0000007218ca4d20  x19 000000740adc8c00
+  x20 00000074048bf000  x21 00000000000001da  x22 71f4c50000000000  x23 000000710377ce78
+  x24 0000000000000000  x25 0000000000000000  x26 0000000000000000  x27 0000000000000000
+  x28 0000000000000000  x29 0000007218ca4e30  x30 0000007102a84eb4  x31 0000000000000000
+
+*** exception c0000005 accessing 0xffffffffffffffff
+    host pc 7ffa9ad914d0 (f_7102a6f754+160)
+    host lr a28 (?)
+host backtrace (guest functions are f_<addr>):
+
+*** exception c0000005 accessing 0xffffffffffffffff
+    host pc 7ffa9ad914d0 (f_7102a6f754+160)
+    host lr f (?)
+host backtrace (guest functions are f_<addr>):
+  #0  00007ff652ec1178 lasrecomp+b1178
+  #1  00007ff652e12c71 lasrecomp+2c71
+  #0  00007ff652ec1178 lasrecomp+b1178
+  #1  00007ff652e12c71 lasrecomp+2c71
+  #2  00007ff652e13df8 lasrecomp+3df8
+  #3  00007ff652ec1359 lasrecomp+b1359
+  #2  00007ff652e13df8 lasrecomp+3df8
+  #3  00007ff652ec1359 lasrecomp+b1359
+  #4  00007ffb8c60c507 KERNELBASE.dll+12c507
+[crash] The game crashed (exception c0000005 accessing 0xffffffffffffffff)
+  #5  00007ffb8ead58d8 ntdll.dll+a58d8
+  #6  00007ffb8eabce46 ntdll.dll+8ce46
+  #7  00007ffb8ead296f nt
