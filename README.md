@@ -41,7 +41,7 @@ Inside the main project directory, locate the `extracted` folder.
 Place the extracted files in the following structure:
 
 
-Pokemon Arceus Recompzada/
+``Pokemon Arceus Recompzada/
 └── extracted/
     ├── exefs/
     │   ├── main
@@ -53,7 +53,7 @@ Pokemon Arceus Recompzada/
     └── romfs/
         ├── bin/
         ├── system_resource/
-        └── other extracted game files
+        └── other extracted game files``
 
 
 **Important:** Place the contents of ExeFS and RomFS inside their respective folders. Do not place the compressed archives or the parent folder containing both directories there.
