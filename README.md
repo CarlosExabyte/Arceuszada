@@ -10,7 +10,7 @@ I'm not a professional developer, and this is not an official, finished, or comm
 
 If you enjoy this project and would like to help me dedicate more time to development, testing, troubleshooting, and future improvements, you can support me through either option below.
 
-- **Patreon:** Add your Patreon page link here.
+- **Patreon:** (https://www.patreon.com/cw/CarlosExabyte)
 - **Pix:** `53578c64-d11f-43c5-96b9-3b5529741664`
 
 Every contribution is voluntary and appreciated. Thank you for supporting this amateur project!
