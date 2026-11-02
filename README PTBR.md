@@ -41,7 +41,7 @@ Dentro do diretório principal do projeto, localize a pasta `extracted`.
 
 Coloque os arquivos extraídos na seguinte estrutura:
 
-
+```text
 Pokemon Arceus Recompzada/
 └── extracted/
     ├── exefs/
@@ -55,7 +55,7 @@ Pokemon Arceus Recompzada/
         ├── bin/
         ├── system_resource/
         └── outros arquivos extraídos do jogo
-
+```
 
 **Importante:** Coloque o conteúdo das pastas ExeFS e RomFS dentro de suas respectivas pastas. Não coloque os arquivos compactados nem a pasta principal que contém ambas.
 
