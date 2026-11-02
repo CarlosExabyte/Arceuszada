@@ -23,25 +23,24 @@ Community projects such as [LASRecomp](https://github.com/peiikai/LASRecomp) and
 
 Do not distribute copyrighted game files, ROMs, extracted assets, proprietary code, encryption keys, or other materials belonging to Nintendo or Game Freak through this repository.
 
-
 ## Setting Up the Game Files
 
-To recompile and run this project, you must provide the extracted files from your own legal copy of Pokémon Legends: Arceus.
+To recompile and run this project, you must provide the extracted files from your own legal copy of **Pokémon Legends: Arceus**.
 
 **Original game files are not included or distributed with this project.**
 
-### 1. Extract the game files
+### 1. Extract the Game Files
 
 You will need the ExeFS and RomFS contents extracted from your own copy of the game.
 
-### 2. Place the files in the correct folders
+### 2. Place the Files in the Correct Folders
 
 Inside the main project directory, locate the `extracted` folder.
 
 Place the extracted files in the following structure:
 
-
-``Pokemon Arceus Recompzada/
+```text
+Pokemon Arceus Recompzada/
 └── extracted/
     ├── exefs/
     │   ├── main
@@ -53,16 +52,16 @@ Place the extracted files in the following structure:
     └── romfs/
         ├── bin/
         ├── system_resource/
-        └── other extracted game files``
-
+        └── other extracted game files
+```
 
 **Important:** Place the contents of ExeFS and RomFS inside their respective folders. Do not place the compressed archives or the parent folder containing both directories there.
 
-### 3. Recompile the game
+### 3. Recompile the Game
 
 After setting up the files:
 
-1. Run `recompilar_arceus.bat` or `lasrecomp.exe`
+1. Run `recompilar_arceus.bat` or `lasrecomp.exe`.
 2. Wait for the code generation and compilation process to finish.
 3. Once compilation is complete, run `executar_arceus.bat` or open `lasrecomp.exe`.
 
