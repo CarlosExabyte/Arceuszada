@@ -1,5 +1,10 @@
 # Pokémon Legends: Arceus Recomp
 
+![Preview](https://scontent.fjpa9-1.fna.fbcdn.net/v/t39.30808-6/871316188_4460131744202035_97881541406491077_n.jpg?stp=dst-jpg_tt6&cstp=mx1379x763&ctp=s1379x763&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=cgH8xolutxAQ7kNvwE2jIyg&_nc_oc=AdpoS4OXukk4WXacp6zyvjHjzRIv8aHnPgsQkTHTgp2pUNiJw2mvAYvZfo6m1bxy0kw&_nc_zt=23&_nc_ht=scontent.fjpa9-1.fna&_nc_gid=otLAaRJZYd-ne225nuhEJg&_nc_ss=7b2a8&oh=00_AQQqKkMQq9dFRHhEZbORSUXcO14k8J_249NWBGK-stIR2g&oe=6AEE1D46)
+
+![Preview](https://scontent.fjpa9-1.fna.fbcdn.net/v/t39.30808-6/870101848_4460518197496723_4891506017283762638_n.jpg?stp=dst-jpg_tt6&cstp=mx1919x1079&ctp=s1919x1079&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=UawumFO82MQQ7kNvwHoRYRF&_nc_oc=Ado6EmCojxwW3dtQad0W9AQxlw0iTqBqjT1Zt18dOWAuAxnyxWMPrlu2mRTGHDSrLjw&_nc_zt=23&_nc_ht=scontent.fjpa9-1.fna&_nc_gid=Lj96yLSsWx5WYUtQ1LOC-Q&_nc_ss=7b2a8&oh=00_AQSO9mE7s2WGh4fOw2o6YILL139OWVI1fLyRyxLakdawqQ&oe=6AEE21BA)
+
+
 Um projeto amador independente focado na recompilação de **Pokémon Legends: Arceus**.
 
 Este projeto é uma experiência de aprendizado pessoal, desenvolvida com o conhecimento, tempo e recursos disponíveis. Estou fazendo o meu melhor para que funcione, aprimorá-lo e compartilhar meu progresso com a comunidade.
