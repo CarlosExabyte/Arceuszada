@@ -1,8 +1,11 @@
+<img width="1290" height="747" alt="Screenshot_4" src="https://github.com/user-attachments/assets/1d4555c2-2675-4c03-a58d-040ee20d3c0f" />
 # Pokémon Legends: Arceus Recomp
 
-![Preview](https://scontent.fjpa9-1.fna.fbcdn.net/v/t39.30808-6/871316188_4460131744202035_97881541406491077_n.jpg?stp=dst-jpg_tt6&cstp=mx1379x763&ctp=s1379x763&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=cgH8xolutxAQ7kNvwE2jIyg&_nc_oc=AdpoS4OXukk4WXacp6zyvjHjzRIv8aHnPgsQkTHTgp2pUNiJw2mvAYvZfo6m1bxy0kw&_nc_zt=23&_nc_ht=scontent.fjpa9-1.fna&_nc_gid=otLAaRJZYd-ne225nuhEJg&_nc_ss=7b2a8&oh=00_AQQqKkMQq9dFRHhEZbORSUXcO14k8J_249NWBGK-stIR2g&oe=6AEE1D46)
+![Preview](<img width="1919" height="1079" alt="Screenshot_3" src="https://github.com/user-attachments/assets/4e930a93-3914-4649-8f87-85e3f8d4243d" />
+)
 
-![Preview](https://scontent.fjpa9-1.fna.fbcdn.net/v/t39.30808-6/870101848_4460518197496723_4891506017283762638_n.jpg?stp=dst-jpg_tt6&cstp=mx1919x1079&ctp=s1919x1079&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=UawumFO82MQQ7kNvwHoRYRF&_nc_oc=Ado6EmCojxwW3dtQad0W9AQxlw0iTqBqjT1Zt18dOWAuAxnyxWMPrlu2mRTGHDSrLjw&_nc_zt=23&_nc_ht=scontent.fjpa9-1.fna&_nc_gid=Lj96yLSsWx5WYUtQ1LOC-Q&_nc_ss=7b2a8&oh=00_AQSO9mE7s2WGh4fOw2o6YILL139OWVI1fLyRyxLakdawqQ&oe=6AEE21BA)
+![Preview](![Uploading Screenshot_4.png…]()
+)
 
 An independent amateur project focused on the recompilation of **Pokémon Legends: Arceus**.
 
