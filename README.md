@@ -4,9 +4,6 @@
 ![Preview](<img width="1919" height="1079" alt="Screenshot_3" src="https://github.com/user-attachments/assets/4e930a93-3914-4649-8f87-85e3f8d4243d" />
 )
 
-![Preview](<img width="1919" height="1079" alt="Screenshot_3" src="https://github.com/user-attachments/assets/b6ad8e4e-cf2e-46ab-9cf4-e7a4a30c7b1c" />
-
-)
 
 An independent amateur project focused on the recompilation of **Pokémon Legends: Arceus**.
 
